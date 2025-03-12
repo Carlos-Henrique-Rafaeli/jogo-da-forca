@@ -34,13 +34,13 @@ dotnet build --configuration Release
 5. Para executar o projeto compilando em tempo real
    
 ```
-dotnet run --project JogoDeAdivinhacao.ConsoleApp
+dotnet run --project JogoDaForca.ConsoleApp
 ```
 
-6. Para executar o arquivo compilado, navegue até a pasta `./JogoDeAdivinhacao.ConsoleApp/bin/Release/net8.0/` e execute o arquivo:
+6. Para executar o arquivo compilado, navegue até a pasta `./JogoDaForca.ConsoleApp/bin/Release/net8.0/` e execute o arquivo:
    
 ```
-JogoDeAdivinhacao.ConsoleApp.exe
+JogoDaForca.ConsoleApp.exe
 ```
 
 ## Requisitos
