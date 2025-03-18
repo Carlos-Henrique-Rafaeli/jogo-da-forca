@@ -2,15 +2,19 @@
 
 ## Demonstração
 
-![](https://i.imgur.com/mBeVwi4.gif)
+![](https://i.imgur.com/zRK9WnH.gif)
 
 ## Introdução
 
-Jogo da forca clássico: uma fruta aleatória é selecionada e você tenta adivinhá-la.
+Jogo da forca clássico onde você pode escolher entre **três temas diferentes** — frutas, animais e países.
 
 ## Funcionalidades
 
-- **Frutas Aleatórias**: O jogo escolhe automaticamente uma fruta para você adivinhar.
+- **Escolha de Tema**: Antes de iniciar o jogo, você pode escolher um dos seguintes temas:
+	- **Frutas**
+	- **Animais**
+	- **Países**
+- **Palavra Aleatória**: O jogo seleciona uma palavra aleatória com base no tema escolhido.
 - **Tentativas Limitadas**: Você tem 5 chances para acertar a palavra secreta.
 - **Feedback**: A cada tentativa, o jogo mostra quais letras foram acertadas e quais ainda faltam.
 - **Reinício de Partida**: Ao final do jogo, é possível começar uma nova partida quantas vezes quiser.
